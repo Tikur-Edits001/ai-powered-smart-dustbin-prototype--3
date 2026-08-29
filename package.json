@@ -1,0 +1,9 @@
+{
+  "name": "ecosort-ai-scanner-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless backend for the EcoSort AI Waste Scanner's /api/analyze-waste endpoint.",
+  "engines": {
+    "node": ">=18"
+  }
+}
